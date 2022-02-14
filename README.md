@@ -2,7 +2,8 @@
 
 This is a project  used to manage the employees in our institutes and organizations.
 
-# feature
+# features
+
 1)create
 2)read
 3)update
