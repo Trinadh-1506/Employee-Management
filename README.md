@@ -1,13 +1,14 @@
 # Employee Management system
 
-This is a project  used to manage the employees.
+This is a project  used to manage the employees in our institutes and organizations.
 
 # feature
 1)create
 2)read
 3)update
 4)delete
-this application supports the basic crud features to manage or alter the employees details
+
+This application supports the basic crud features to manage or alter the employees details
 
 # tools and techs used
 
